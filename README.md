@@ -12,6 +12,6 @@
 </m:Input>
 ```
 ### 参数
-modelname : JSONModel | oDataModel
-modelpath : String
-fieldlist : { title : String , description : String | null }
+modelname : JSONModel | oDataModel  
+modelpath : String  
+fieldlist : { title : String , description : String | null }  
