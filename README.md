@@ -1,5 +1,6 @@
 # 文档
 ## smartvaluehelp
+### 示例
 ```xml
 <m:Input 
   showValueHelp="true" 
@@ -10,3 +11,7 @@
   </m:customData>
 </m:Input>
 ```
+### 参数
+modelname : JSONModel | oDataModel
+modelpath : String
+fieldlist : { title : String , description : String | null }
