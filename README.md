@@ -84,7 +84,7 @@ fieldlist : { title : String , description : String | null }
                 </headerToolbar>
 ```
 #### 参数
-sortlist ： json格式 
-            key ： 对应items锁绑的model的key
-            text ： 在sort里显示的字段
-            selected ： 是否被选中
+sortlist ： json格式   
+            key ： 对应items锁绑的model的key  
+            text ： 在sort里显示的字段  
+            selected ： 是否被选中  
