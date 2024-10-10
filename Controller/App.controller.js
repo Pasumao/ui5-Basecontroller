@@ -1,9 +1,9 @@
 sap.ui.define([
-    "project/controller/Basecontroller"
+    "app/controller/Basecontroller"
 ],function(Controller) {
   "use strict";
 
-  return Controller.extend("project.controller.name", {
+  return Controller.extend("app.controller.name", {
 
     _bind(){
       Controller.prototype._bind.apply(this, arguments);
